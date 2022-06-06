@@ -268,9 +268,10 @@ line-height: 70px; */
 
 .work-img {
   max-width: 100%;
+  max-height: 400px;
   height: 100%;
-
 }
+
 
 .see-life {
   font-size: 1.1rem;
